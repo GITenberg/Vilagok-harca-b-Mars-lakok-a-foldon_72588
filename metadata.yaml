@@ -1,0 +1,37 @@
+_repo: Vilagok-harca-b-Mars-lakok-a-foldon_72588
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mikes, Lajos
+    birthdate: 1872
+    deathdate: 1930
+    gutenberg_agent_id: '54072'
+    url: http://www.gutenberg.org/2009/agents/54072
+    wikipedia: https://hu.wikipedia.org/wiki/Mikes_Lajos
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2024-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72588'
+language: hu
+pgterms:marc905: 20220122181645wells
+pgterms:marc906: '1925'
+pgterms:marc907: hu
+production_note: Albert László
+publication_note: '  $aBudapest :$bFranklin, $c1925, copyright 1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Világok harca : $b Mars-lakók a földön'
+url: http://www.gutenberg.org/ebooks/72588
